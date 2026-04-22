@@ -1,0 +1,4 @@
+- Use of the two-dimensional Ising model to simulate the ferromagnetic-paramagnetic phase transition
+- Use of the Ising mean field model
+- Programming in Python
+- LaTeX
